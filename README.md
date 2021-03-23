@@ -1,3 +1,1 @@
-# rsschool-cv
-
-## add a link here
+https://mariyalcs.github.io/rsschool-cv/cv
